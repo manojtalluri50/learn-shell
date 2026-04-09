@@ -4,5 +4,5 @@ Learn Bash Shell Scripting
 
 Here are the topics
 
-Conditions
-Loops
+1.Conditions
+2.Loops
