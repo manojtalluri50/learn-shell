@@ -2,7 +2,7 @@
 
 Learn Bash Shell Scripting
 
-Here are the topics
+# Here are the topics
 
 1.Printing
 2.Variables
