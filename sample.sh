@@ -27,3 +27,6 @@ echo $list_of_files
 # Arithmetic substitution
 add=$((2+3))
 echo $add
+
+dir_path=$(pwd)
+echo $dir_path
