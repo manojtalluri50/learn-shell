@@ -12,3 +12,7 @@ echo y value is $y
 touch "file 1.txt"
 
 cp "file 1.txt" "file 2.txt"
+
+file=1.txt
+touch $file
+cp $file 2.txt
