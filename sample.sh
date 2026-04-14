@@ -9,5 +9,6 @@ y=10
 echo x value is $x
 echo y value is $y
 
+touch "file 1.txt"
 
 cp "file 1.txt" "file 2.txt"
