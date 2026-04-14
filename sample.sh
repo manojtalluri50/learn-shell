@@ -2,4 +2,4 @@ ls -l
 ls
 pwd
 dir_path=$(pwd)
-echo  $dir_path
+echo  the path is $dir_path
