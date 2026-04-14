@@ -1,5 +1,3 @@
 ls -l
-
 ls
-
 pwd
