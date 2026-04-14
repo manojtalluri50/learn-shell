@@ -8,3 +8,6 @@ x=10
 y=10
 echo x value is $x
 echo y value is $y
+
+
+cp "file 1.txt" "file 2.txt"
