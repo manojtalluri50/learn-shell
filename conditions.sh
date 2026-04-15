@@ -11,4 +11,5 @@ fi
 z=30
 if [ "$z" -eq 30 ]; then
   echo $z is equal to 30
+fi
 
