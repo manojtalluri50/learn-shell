@@ -16,7 +16,7 @@ fi
 
 a=10
 if [ $a -gt 0 ]; then
-  echo $a is less than zero
+  echo "$a is greater than zero"
 else
-  echo $a is greater than zero
+  echo "$a is less than or equal to zero"
 fi
