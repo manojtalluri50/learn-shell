@@ -14,9 +14,18 @@ if [ "$z" -eq 30 ]; then
 fi
 
 
-a=10
+a=0
 if [ $a -gt 0 ]; then
   echo "$a is greater than zero"
 else
   echo "$a is less than or equal to zero"
+fi
+
+
+if [ $a -gt 0 ]; then
+  echo "$a is greater than zero"
+elif [ $a -eq 0 ]; then
+  echo "$a is equal to zero"
+else
+  echo "$a is less than zero"
 fi
