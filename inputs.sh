@@ -13,5 +13,7 @@ sample(){
   echo RHS Values in function 1 - $1 , 2 - $2
   echo "All Values in function - * - $*"
   echo " no of Values in function # - $#"
+  echo x - $x
 }
 a=9 b=10 sample 900 1000
+export x=10
