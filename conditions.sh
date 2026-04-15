@@ -4,8 +4,11 @@ if [ "$x" -gt 0 ]; then
 fi
 
 y=20
-
 if [ "$y" -lt 40 ]; then
   echo $y is less than 40
 fi
+
+z=30
+if [ "$z" -eq 30 ]; then
+  echo $z is equal to 30
 
