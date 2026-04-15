@@ -8,5 +8,5 @@ while [ $i -gt 0 ]; do
 done
 
 for fruit in apple banana orange ; do
-  echo Fruit name - Sfruit
+  echo Fruit name - $ fruit
 done
