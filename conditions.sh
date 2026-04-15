@@ -13,3 +13,10 @@ if [ "$z" -eq 30 ]; then
   echo $z is equal to 30
 fi
 
+
+a=10
+if [ $a -gt 0 ]; then
+  echo $a is less than zero
+else
+  echo $a is greater than zero
+fi
